@@ -1,0 +1,13 @@
+in the found he is checking if the username exist or not . there is no benifit in doing so, because at the end we are trying to find a user;
+
+
+
+/*
+    input : userPerm, categoriePerm, 
+    output: boolean 
+
+
+*/
+
+Check Permission: 
+    the permission checking is related to the user so it is better to create the method inside the clsUser class
